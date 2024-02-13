@@ -15,7 +15,8 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </br>
 ## Proyectos Destacados
-
+### PROXIMAMENTE
+<!--
 ### Proyecto 1: [Nombre del Proyecto](enlace)
 
 Breve descripción del proyecto y su relevancia.
@@ -27,7 +28,7 @@ Breve descripción del proyecto y su relevancia.
 ## Colaboraciones
 
 - [Nombre del Proyecto](enlace): Contribución realizada y su importancia.
-
+-->
 ## Contacto
 
 ¡Estoy siempre interesado en conocer a otros desarrolladores y colaborar en nuevos proyectos! No dudes en contactarme a través de [mi correo electrónico](mailto:tu@email.com) o [LinkedIn](https://www.linkedin.com/in/tu-perfil/).
