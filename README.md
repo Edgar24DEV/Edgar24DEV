@@ -13,6 +13,10 @@
 </br>
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+</br>
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </br>
 ## Proyectos Destacados
 ### PROXIMAMENTE
@@ -31,7 +35,7 @@ Breve descripción del proyecto y su relevancia.
 -->
 ## Contacto
 
-¡Estoy siempre interesado en conocer a otros desarrolladores y colaborar en nuevos proyectos! No dudes en contactarme a través de [mi correo electrónico](mailto:tu@email.com) o [LinkedIn](https://www.linkedin.com/in/tu-perfil/).
+¡Estoy siempre interesado en conocer a otros desarrolladores y colaborar en nuevos proyectos! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/edgar-álvaro-varela-508329231/).
 
 ¡Gracias por visitar mi perfil! 😊
 
