@@ -35,7 +35,7 @@ Breve descripción del proyecto y su relevancia.
 -->
 ## Contacto
 
-¡Estoy siempre interesado en conocer a otros desarrolladores y colaborar en nuevos proyectos! No dudes en contactarme a través de [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-álvaro-varela-508329231/).
+¡Estoy siempre interesado en conocer a otros desarrolladores y colaborar en nuevos proyectos! No dudes en contactarme a través de [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-álvaro-varela-508329231/)
 
 ¡Gracias por visitar mi perfil! 😊
 
