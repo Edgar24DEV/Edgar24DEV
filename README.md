@@ -10,6 +10,7 @@
 </br>
 ## Proyectos Destacados
 ### Proyecto 1: [TPV](https://tpv-project.duckdns.org/select-login)
+#### Realicé un proyecto de un TPV para grandes cadenas de restauranción con Laravel para el Backend y Ionic Angular para el Frontend.
 <!--
 ### Proyecto 1: [Nombre del Proyecto](enlace)
 
