@@ -11,6 +11,7 @@
 ## Proyectos Destacados
 ### Proyecto 1: [TPV](https://tpv-project.duckdns.org/select-login)
 #### Realicé un proyecto de un TPV para grandes cadenas de restauranción con Laravel para el Backend y Ionic Angular para el Frontend.
+##### Se puede acceder como administrado en Napoli Pizzas contraseña: clave123
 <!--
 ### Proyecto 1: [Nombre del Proyecto](enlace)
 
